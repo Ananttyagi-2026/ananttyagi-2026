@@ -30,7 +30,7 @@ I'm a student and software developer interested in building **Web, Mobile, Deskt
 
 ## 👨‍💻 Profiles
 
-* 🐙 **GitHub:** [@Ananttyagi2026](GITHUB_LINK)
+* 🐙 **GitHub:** [@Ananttyagi-2026](GITHUB_LINK)
 * 🍴 **CodeChef:** [ananttyagi2026](CODECHEF_LINK)
 * 📧 **Email:** [ast007a@gmail.com](EMAIL_LINK)
 
